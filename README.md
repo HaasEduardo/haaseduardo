@@ -5,12 +5,19 @@
 Sou apaixonado por tecnologia e venho construindo minha trajetória na área de TI, transformando ideias em projetos e soluções.
 Atualmente, atuo como fundador da Chronos Soluções em T.I., empresa focada em oferecer soluções tecnológicas para empresas e pessoas, com serviços de suporte, manutenção, desenvolvimento e consultoria em tecnologia.
 
-💻 Também trabalho no desenvolvimento de projetos próprios, incluindo sistemas e aplicações web, sempre buscando aprender novas tecnologias e transformar conhecimento em soluções reais.
+💻 Desenvolvedor Full Stack apaixonado por tecnologia, desenvolvimento de sistemas e soluções que tornam processos mais simples e eficientes.
 
-🚀 Meu objetivo é ajudar empresas a utilizarem a tecnologia de forma mais simples, eficiente e estratégica.
+🚀 Atualmente focado em desenvolvimento web, sistemas, automação e segurança cibernética, sempre buscando aprender novas tecnologias e transformar ideias em projetos reais.
 
-Chronos Soluções em T.I.
-Tecnologia que acompanha o seu tempo.".
+📌 Sobre mim
+
+"Transformar uma ideia em um sistema funcional é apenas o começo."
+
+Gosto de entender problemas, criar soluções e evoluir meus projetos constantemente. Meu objetivo é crescer como desenvolvedor e trabalhar em projetos que tenham impacto real.
+
+📂 Projetos
+
+Aqui você encontrará projetos pessoais, sistemas em desenvolvimento, experimentos e soluções desenvolvidas ao longo da minha jornada como programador.
 
 ---
 <h3 align="left">Contate-me!</h3>
